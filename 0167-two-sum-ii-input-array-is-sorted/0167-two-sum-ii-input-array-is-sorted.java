@@ -13,6 +13,6 @@ class Solution {
                 return new int[] {ap+1,bp+1};
             }
         }
-        return new int[] {ap+1,bp+1};
+        return null;
     }
 }
