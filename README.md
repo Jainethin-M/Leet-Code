@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jainethin-M/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Jainethin-M/Leet-Code/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Jainethin-M/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
+| [0856-consecutive-numbers-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0856-consecutive-numbers-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Jainethin-M/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Jainethin-M/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
+## Enumeration
+|  |
+| ------- |
+| [0856-consecutive-numbers-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0856-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
