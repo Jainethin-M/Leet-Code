@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Jainethin-M/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Jainethin-M/Leet-Code/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Jainethin-M/Leet-Code/tree/master/0371-sum-of-two-integers) |
 | [0856-consecutive-numbers-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0856-consecutive-numbers-sum) |
 ## Recursion
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jainethin-M/Leet-Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0137-single-number-ii) |
+| [0371-sum-of-two-integers](https://github.com/Jainethin-M/Leet-Code/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
 | ------- |
