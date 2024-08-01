@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jainethin-M/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Jainethin-M/Leet-Code/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jainethin-M/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Jainethin-M/Leet-Code/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jainethin-M/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0234-palindrome-linked-list) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jainethin-M/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Jainethin-M/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Jainethin-M/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Jainethin-M/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
