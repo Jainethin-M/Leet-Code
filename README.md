@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jainethin-M/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Jainethin-M/Leet-Code/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Jainethin-M/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Jainethin-M/Leet-Code/tree/master/0283-move-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/Jainethin-M/Leet-Code/tree/master/1293-three-consecutive-odds) |
 ## Dynamic Programming
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jainethin-M/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Jainethin-M/Leet-Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jainethin-M/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Jainethin-M/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
