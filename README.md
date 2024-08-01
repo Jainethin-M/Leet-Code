@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jainethin-M/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Jainethin-M/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0234-palindrome-linked-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jainethin-M/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Jainethin-M/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/Jainethin-M/Leet-Code/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jainethin-M/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Jainethin-M/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Jainethin-M/Leet-Code/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/Jainethin-M/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0344-reverse-string](https://github.com/Jainethin-M/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Jainethin-M/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
