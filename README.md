@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jainethin-M/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Jainethin-M/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/Jainethin-M/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/Jainethin-M/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0856-consecutive-numbers-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0856-consecutive-numbers-sum) |
 ## Recursion
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jainethin-M/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Jainethin-M/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Jainethin-M/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/Jainethin-M/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
