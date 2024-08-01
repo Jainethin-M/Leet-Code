@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Jainethin-M/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Jainethin-M/Leet-Code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Jainethin-M/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Jainethin-M/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0856-consecutive-numbers-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0856-consecutive-numbers-sum) |
 ## Recursion
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Jainethin-M/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/Jainethin-M/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jainethin-M/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Jainethin-M/Leet-Code/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Jainethin-M/Leet-Code/tree/master/0217-contains-duplicate) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jainethin-M/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Jainethin-M/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/Jainethin-M/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Jainethin-M/Leet-Code/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Jainethin-M/Leet-Code/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
