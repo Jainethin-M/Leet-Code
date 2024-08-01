@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Jainethin-M/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Jainethin-M/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Jainethin-M/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Jainethin-M/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/Jainethin-M/Leet-Code/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jainethin-M/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Jainethin-M/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Jainethin-M/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jainethin-M/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Jainethin-M/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Jainethin-M/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Jainethin-M/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
