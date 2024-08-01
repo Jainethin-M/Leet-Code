@@ -93,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Jainethin-M/Leet-Code/tree/master/0200-number-of-islands) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -106,9 +108,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Jainethin-M/Leet-Code/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
