@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jainethin-M/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Jainethin-M/Leet-Code/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/Jainethin-M/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jainethin-M/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jainethin-M/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Jainethin-M/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Jainethin-M/Leet-Code/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jainethin-M/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0234-palindrome-linked-list) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jainethin-M/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Jainethin-M/Leet-Code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
