@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jainethin-M/Leet-Code/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Jainethin-M/Leet-Code/tree/master/0670-maximum-swap) |
 | [0856-consecutive-numbers-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0856-consecutive-numbers-sum) |
+| [3371-harshad-number](https://github.com/Jainethin-M/Leet-Code/tree/master/3371-harshad-number) |
 | [3462-vowels-game-in-a-string](https://github.com/Jainethin-M/Leet-Code/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Jainethin-M/Leet-Code/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion
