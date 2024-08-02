@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Jainethin-M/Leet-Code/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2384-root-equals-sum-of-children](https://github.com/Jainethin-M/Leet-Code/tree/master/2384-root-equals-sum-of-children) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Jainethin-M/Leet-Code/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0226-invert-binary-tree) |
 ## Union Find
