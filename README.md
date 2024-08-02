@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Jainethin-M/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Jainethin-M/Leet-Code/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/Jainethin-M/Leet-Code/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Jainethin-M/Leet-Code/tree/master/0948-sort-an-array) |
 | [1168-duplicate-zeros](https://github.com/Jainethin-M/Leet-Code/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1217-relative-sort-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0493-reverse-pairs) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jainethin-M/Leet-Code/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0755-reach-a-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0755-reach-a-number) |
+| [0792-binary-search](https://github.com/Jainethin-M/Leet-Code/tree/master/0792-binary-search) |
 | [1307-ugly-number-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1307-ugly-number-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1646-kth-missing-positive-number) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Jainethin-M/Leet-Code/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
