@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jainethin-M/Leet-Code/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Jainethin-M/Leet-Code/tree/master/0670-maximum-swap) |
 | [0856-consecutive-numbers-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0856-consecutive-numbers-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/Jainethin-M/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/Jainethin-M/Leet-Code/tree/master/2383-add-two-integers) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Jainethin-M/Leet-Code/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2491-smallest-even-multiple](https://github.com/Jainethin-M/Leet-Code/tree/master/2491-smallest-even-multiple) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Jainethin-M/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Jainethin-M/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0541-reverse-string-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/Jainethin-M/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Jainethin-M/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Jainethin-M/Leet-Code/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Jainethin-M/Leet-Code/tree/master/3462-vowels-game-in-a-string) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jainethin-M/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0670-maximum-swap](https://github.com/Jainethin-M/Leet-Code/tree/master/0670-maximum-swap) |
+| [2032-largest-odd-number-in-string](https://github.com/Jainethin-M/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Jainethin-M/Leet-Code/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Jainethin-M/Leet-Code/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Backtracking
