@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0507-perfect-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jainethin-M/Leet-Code/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Jainethin-M/Leet-Code/tree/master/0670-maximum-swap) |
+| [0755-reach-a-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0755-reach-a-number) |
 | [0856-consecutive-numbers-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0856-consecutive-numbers-sum) |
 | [1013-fibonacci-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1236-n-th-tribonacci-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Jainethin-M/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0493-reverse-pairs) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jainethin-M/Leet-Code/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0755-reach-a-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0755-reach-a-number) |
 | [1307-ugly-number-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1307-ugly-number-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1646-kth-missing-positive-number) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Jainethin-M/Leet-Code/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
