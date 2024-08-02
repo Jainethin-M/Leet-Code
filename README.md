@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jainethin-M/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Jainethin-M/Leet-Code/tree/master/0118-pascals-triangle) |
+| [2397-count-number-of-ways-to-place-houses](https://github.com/Jainethin-M/Leet-Code/tree/master/2397-count-number-of-ways-to-place-houses) |
 ## Hash Table
 |  |
 | ------- |
