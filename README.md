@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2384-root-equals-sum-of-children](https://github.com/Jainethin-M/Leet-Code/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -153,12 +154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Jainethin-M/Leet-Code/tree/master/0200-number-of-islands) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2384-root-equals-sum-of-children](https://github.com/Jainethin-M/Leet-Code/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
