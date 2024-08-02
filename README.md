@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jainethin-M/Leet-Code/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0493-reverse-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Jainethin-M/Leet-Code/tree/master/1293-three-consecutive-odds) |
+| [3226-minimum-number-game](https://github.com/Jainethin-M/Leet-Code/tree/master/3226-minimum-number-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Jainethin-M/Leet-Code/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Jainethin-M/Leet-Code/tree/master/0217-contains-duplicate) |
+| [3226-minimum-number-game](https://github.com/Jainethin-M/Leet-Code/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jainethin-M/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+| [3226-minimum-number-game](https://github.com/Jainethin-M/Leet-Code/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Jainethin-M/Leet-Code/tree/master/0067-add-binary) |
+| [3226-minimum-number-game](https://github.com/Jainethin-M/Leet-Code/tree/master/3226-minimum-number-game) |
 ## Memoization
 |  |
 | ------- |
