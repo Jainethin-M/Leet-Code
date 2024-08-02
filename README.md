@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jainethin-M/Leet-Code/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Jainethin-M/Leet-Code/tree/master/0670-maximum-swap) |
 | [0856-consecutive-numbers-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0856-consecutive-numbers-sum) |
+| [1013-fibonacci-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/Jainethin-M/Leet-Code/tree/master/1260-day-of-the-year) |
 | [1307-ugly-number-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1307-ugly-number-iii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Jainethin-M/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/Jainethin-M/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jainethin-M/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Jainethin-M/Leet-Code/tree/master/0118-pascals-triangle) |
+| [1013-fibonacci-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1236-n-th-tribonacci-number) |
 | [1332-count-vowels-permutation](https://github.com/Jainethin-M/Leet-Code/tree/master/1332-count-vowels-permutation) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jainethin-M/Leet-Code/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1236-n-th-tribonacci-number) |
 ## Geometry
 |  |
