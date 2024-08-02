@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jainethin-M/Leet-Code/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Jainethin-M/Leet-Code/tree/master/0670-maximum-swap) |
 | [0856-consecutive-numbers-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0856-consecutive-numbers-sum) |
+| [1635-number-of-good-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Jainethin-M/Leet-Code/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/Jainethin-M/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/Jainethin-M/Leet-Code/tree/master/2383-add-two-integers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jainethin-M/Leet-Code/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0493-reverse-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Jainethin-M/Leet-Code/tree/master/1293-three-consecutive-odds) |
+| [1635-number-of-good-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1646-kth-missing-positive-number) |
 | [1848-sum-of-unique-elements](https://github.com/Jainethin-M/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jainethin-M/Leet-Code/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Jainethin-M/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Jainethin-M/Leet-Code/tree/master/0217-contains-duplicate) |
+| [1635-number-of-good-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Jainethin-M/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 ## Sorting
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Jainethin-M/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Jainethin-M/Leet-Code/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Brainteaser
