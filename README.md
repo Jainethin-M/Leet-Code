@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Jainethin-M/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Jainethin-M/Leet-Code/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0493-reverse-pairs) |
+| [1217-relative-sort-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/Jainethin-M/Leet-Code/tree/master/1293-three-consecutive-odds) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1372-check-if-it-is-a-good-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jainethin-M/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Jainethin-M/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Jainethin-M/Leet-Code/tree/master/0217-contains-duplicate) |
+| [1217-relative-sort-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Jainethin-M/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 ## Sorting
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Jainethin-M/Leet-Code/tree/master/0217-contains-duplicate) |
+| [1217-relative-sort-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1217-relative-sort-array) |
 | [3226-minimum-number-game](https://github.com/Jainethin-M/Leet-Code/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -335,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1307-ugly-number-iii) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
