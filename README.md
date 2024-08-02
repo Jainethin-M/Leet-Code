@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jainethin-M/Leet-Code/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Jainethin-M/Leet-Code/tree/master/0670-maximum-swap) |
 | [0856-consecutive-numbers-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0856-consecutive-numbers-sum) |
+| [1307-ugly-number-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1307-ugly-number-iii) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1372-check-if-it-is-a-good-array) |
 | [1635-number-of-good-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Jainethin-M/Leet-Code/tree/master/1642-water-bottles) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Jainethin-M/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0493-reverse-pairs) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jainethin-M/Leet-Code/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [1307-ugly-number-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1307-ugly-number-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1646-kth-missing-positive-number) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Jainethin-M/Leet-Code/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Stack
@@ -320,7 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1307-ugly-number-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1307-ugly-number-iii) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1372-check-if-it-is-a-good-array) |
 | [2491-smallest-even-multiple](https://github.com/Jainethin-M/Leet-Code/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Jainethin-M/Leet-Code/tree/master/2507-number-of-common-factors) |
+## Combinatorics
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
