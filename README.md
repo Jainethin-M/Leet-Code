@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jainethin-M/Leet-Code/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0493-reverse-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Jainethin-M/Leet-Code/tree/master/1293-three-consecutive-odds) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jainethin-M/Leet-Code/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Jainethin-M/Leet-Code/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Jainethin-M/Leet-Code/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/Jainethin-M/Leet-Code/tree/master/3226-minimum-number-game) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jainethin-M/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Jainethin-M/Leet-Code/tree/master/0118-pascals-triangle) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jainethin-M/Leet-Code/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/Jainethin-M/Leet-Code/tree/master/2397-count-number-of-ways-to-place-houses) |
 ## Hash Table
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Jainethin-M/Leet-Code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Jainethin-M/Leet-Code/tree/master/0200-number-of-islands) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jainethin-M/Leet-Code/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## String
 |  |
 | ------- |
