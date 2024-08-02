@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0137-single-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/Jainethin-M/Leet-Code/tree/master/0371-sum-of-two-integers) |
+| [2659-number-of-even-and-odd-bits](https://github.com/Jainethin-M/Leet-Code/tree/master/2659-number-of-even-and-odd-bits) |
 ## Simulation
 |  |
 | ------- |
