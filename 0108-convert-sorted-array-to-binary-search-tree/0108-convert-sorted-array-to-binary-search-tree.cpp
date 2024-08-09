@@ -14,7 +14,8 @@ public:
     TreeNode* place(vector<int> n,int l,int h){
         if(l>h)return nullptr;
         int m=l+(h-l)/2;
-        TreeNode* a=new TreeNode(n[m]);
+        int mv=n[m];
+        TreeNode* a=new TreeNode(mv);
         a->left=place(n,l,m-1);
         a->right=place(n,m+1,h);
         return a;
