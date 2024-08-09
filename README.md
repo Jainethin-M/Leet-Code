@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jainethin-M/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Jainethin-M/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Jainethin-M/Leet-Code/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Jainethin-M/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0493-reverse-pairs) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Jainethin-M/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Jainethin-M/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2384-root-equals-sum-of-children](https://github.com/Jainethin-M/Leet-Code/tree/master/2384-root-equals-sum-of-children) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jainethin-M/Leet-Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Jainethin-M/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/Jainethin-M/Leet-Code/tree/master/0371-sum-of-two-integers) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Jainethin-M/Leet-Code/tree/master/2659-number-of-even-and-odd-bits) |
 ## Simulation
