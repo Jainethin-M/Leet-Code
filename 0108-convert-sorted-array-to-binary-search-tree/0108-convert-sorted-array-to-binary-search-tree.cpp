@@ -15,7 +15,6 @@ public:
         if(l>h)return nullptr;
         int m=l+(h-l)/2;
         TreeNode* a=new TreeNode(n[m]);
-        if(l==h)return a;
         a->left=place(n,l,m-1);
         a->right=place(n,m+1,h);
         return a;
