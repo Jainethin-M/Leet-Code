@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jainethin-M/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Jainethin-M/Leet-Code/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2384-root-equals-sum-of-children](https://github.com/Jainethin-M/Leet-Code/tree/master/2384-root-equals-sum-of-children) |
