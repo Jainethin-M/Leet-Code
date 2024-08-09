@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jainethin-M/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/Jainethin-M/Leet-Code/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Jainethin-M/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0137-single-number-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jainethin-M/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Jainethin-M/Leet-Code/tree/master/0948-sort-an-array) |
@@ -395,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Jainethin-M/Leet-Code/tree/master/0278-first-bad-version) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
