@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1646-kth-missing-positive-number) |
 | [1848-sum-of-unique-elements](https://github.com/Jainethin-M/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jainethin-M/Leet-Code/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2350-find-closest-number-to-zero](https://github.com/Jainethin-M/Leet-Code/tree/master/2350-find-closest-number-to-zero) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Jainethin-M/Leet-Code/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Jainethin-M/Leet-Code/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/Jainethin-M/Leet-Code/tree/master/3226-minimum-number-game) |
