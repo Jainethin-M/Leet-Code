@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jainethin-M/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Jainethin-M/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Jainethin-M/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Jainethin-M/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Jainethin-M/Leet-Code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Jainethin-M/Leet-Code/tree/master/0070-climbing-stairs) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Jainethin-M/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Jainethin-M/Leet-Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0137-single-number-ii) |
