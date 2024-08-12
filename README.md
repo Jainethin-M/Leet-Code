@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Jainethin-M/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Jainethin-M/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Jainethin-M/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Jainethin-M/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Jainethin-M/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jainethin-M/Leet-Code/tree/master/0022-generate-parentheses) |
@@ -463,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jainethin-M/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jainethin-M/Leet-Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
