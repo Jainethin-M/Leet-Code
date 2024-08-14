@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Jainethin-M/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Jainethin-M/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Jainethin-M/Leet-Code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Jainethin-M/Leet-Code/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/Jainethin-M/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1217-relative-sort-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1217-relative-sort-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Jainethin-M/Leet-Code/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Jainethin-M/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Jainethin-M/Leet-Code/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/Jainethin-M/Leet-Code/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1217-relative-sort-array) |
 | [3226-minimum-number-game](https://github.com/Jainethin-M/Leet-Code/tree/master/3226-minimum-number-game) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Jainethin-M/Leet-Code/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Jainethin-M/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jainethin-M/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Jainethin-M/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Jainethin-M/Leet-Code/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Jainethin-M/Leet-Code/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Jainethin-M/Leet-Code/tree/master/0392-is-subsequence) |
