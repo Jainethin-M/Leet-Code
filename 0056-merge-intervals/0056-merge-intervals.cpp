@@ -4,8 +4,7 @@ public:
         vector<vector<int>> ans;
         sort(intervals.begin(),intervals.end());
         auto vit=intervals.begin();
-        ans.push_back(*vit);
-        vit++;
+        ans.push_back(intervals[0]);
         for(int i=1;i<intervals.size();i++){
             if(ans.back().back()>=intervals[i].front())
             {
