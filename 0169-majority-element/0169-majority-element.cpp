@@ -1,21 +1,14 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int majority;
-        pair<int , int> max;
-        map<int,int> mj;
-        for(auto num : nums){
-            mj[num]++;
+        int count=0;
+        int plot=0;
+        for(int i=0;i<nums.size();i++){
+            if(count==0)plot=nums[i];
+            if(nums[i]==plot)count++;
+            else count--;
         }
-        max.first=0;
-        max.second=0;
-        
-        for(const auto num : mj){
-            if(max.second<num.second){
-                max=num;
-            }
-        }
-        return max.first;
+        return plot;
 
     }
 };
