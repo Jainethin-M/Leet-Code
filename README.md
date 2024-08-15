@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jainethin-M/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jainethin-M/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Jainethin-M/Leet-Code/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Jainethin-M/Leet-Code/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Jainethin-M/Leet-Code/tree/master/0739-daily-temperatures) |
@@ -520,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jainethin-M/Leet-Code/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Jainethin-M/Leet-Code/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
