@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Jainethin-M/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Jainethin-M/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Jainethin-M/Leet-Code/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Jainethin-M/Leet-Code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Jainethin-M/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Jainethin-M/Leet-Code/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/Jainethin-M/Leet-Code/tree/master/0079-word-search) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jainethin-M/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Jainethin-M/Leet-Code/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Jainethin-M/Leet-Code/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Jainethin-M/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Jainethin-M/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0202-happy-number) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Jainethin-M/Leet-Code/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Jainethin-M/Leet-Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Jainethin-M/Leet-Code/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Jainethin-M/Leet-Code/tree/master/0217-contains-duplicate) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jainethin-M/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jainethin-M/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Jainethin-M/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Jainethin-M/Leet-Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Jainethin-M/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Jainethin-M/Leet-Code/tree/master/0067-add-binary) |
