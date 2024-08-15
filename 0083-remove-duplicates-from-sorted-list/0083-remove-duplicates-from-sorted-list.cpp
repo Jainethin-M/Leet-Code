@@ -13,21 +13,21 @@ public:
     ListNode* deleteDuplicates(ListNode* head) {
         if(head == NULL || head->next == NULL)return head;
         unordered_set<int> uset;
-        ListNode * dummy =new ListNode(0,head) ;
+        ListNode * dummy =head;
         ListNode *dum=head;
-        uset.insert(head->val);
+        uset.insert(dummy->val);
         while(dum!=NULL){
             while(dum!=NULL && uset.count(dum->val)){
                 dum=dum->next;
             }
             if(dum!=NULL)
             uset.insert(dum->val);
-            head->next=dum;
-            head=head->next;
+            dummy->next=dum;
+            dummy=dummy->next;
             
             
             
         }
-        return dummy->next;
+        return head;
     }
 };
