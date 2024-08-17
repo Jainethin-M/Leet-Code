@@ -1,7 +1,15 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        return nums.front();
+        int l=0;
+        int r=nums.size()-1;
+        while(l<=r){
+            int m=l+(r-l)/2;
+            
+            if(nums[m]<=nums.back())r=m-1;
+            else l=m+1;
+        }
+            
+        return nums[l];
     }
 };
