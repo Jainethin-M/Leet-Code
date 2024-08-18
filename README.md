@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Jainethin-M/Leet-Code/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Jainethin-M/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Jainethin-M/Leet-Code/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Jainethin-M/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Jainethin-M/Leet-Code/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Jainethin-M/Leet-Code/tree/master/1168-duplicate-zeros) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Jainethin-M/Leet-Code/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0755-reach-a-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/Jainethin-M/Leet-Code/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Jainethin-M/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1307-ugly-number-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1307-ugly-number-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1646-kth-missing-positive-number) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Jainethin-M/Leet-Code/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
