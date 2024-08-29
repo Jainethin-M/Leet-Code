@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Jainethin-M/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Jainethin-M/Leet-Code/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1168-duplicate-zeros](https://github.com/Jainethin-M/Leet-Code/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/Jainethin-M/Leet-Code/tree/master/1293-three-consecutive-odds) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/Jainethin-M/Leet-Code/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/Jainethin-M/Leet-Code/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Jainethin-M/Leet-Code/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1307-ugly-number-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1307-ugly-number-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1646-kth-missing-positive-number) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Jainethin-M/Leet-Code/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jainethin-M/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Jainethin-M/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jainethin-M/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 ## Design
 |  |
 | ------- |
