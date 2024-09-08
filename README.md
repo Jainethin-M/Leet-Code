@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Jainethin-M/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jainethin-M/Leet-Code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Jainethin-M/Leet-Code/tree/master/0383-ransom-note) |
+| [0567-permutation-in-string](https://github.com/Jainethin-M/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Jainethin-M/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1217-relative-sort-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Jainethin-M/Leet-Code/tree/master/1297-maximum-number-of-balloons) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Jainethin-M/Leet-Code/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Jainethin-M/Leet-Code/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Jainethin-M/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Jainethin-M/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Jainethin-M/Leet-Code/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Jainethin-M/Leet-Code/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Jainethin-M/Leet-Code/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Jainethin-M/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/Jainethin-M/Leet-Code/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Jainethin-M/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/Jainethin-M/Leet-Code/tree/master/0953-reverse-only-letters) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jainethin-M/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jainethin-M/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Jainethin-M/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Jainethin-M/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jainethin-M/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
