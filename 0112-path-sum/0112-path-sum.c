@@ -6,13 +6,11 @@
  *     struct TreeNode *right;
  * };
  */
-bool sum(struct TreeNode* root,int t){
-    if(root==NULL)return 0;
-    t-=root->val;
-    if(root->right==NULL&&root->left==NULL&&t==0)return 1;
-    return sum(root->left,t)||sum(root->right,t);
-}
+
 bool hasPathSum(struct TreeNode* root, int targetSum) {
-    return sum(root,targetSum);
+    if(!root)return false;
+    targetSum-=root->val;
+    if(!root->right && !root->left && !targetSum)return true;
+    return hasPathSum(root->left,targetSum) || hasPathSum(root->right,targetSum);
 
 }
