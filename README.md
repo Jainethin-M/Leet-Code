@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/Jainethin-M/Leet-Code/tree/master/1372-check-if-it-is-a-good-array) |
 | [1635-number-of-good-pairs](https://github.com/Jainethin-M/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Jainethin-M/Leet-Code/tree/master/1642-water-bottles) |
+| [1936-maximize-number-of-nice-divisors](https://github.com/Jainethin-M/Leet-Code/tree/master/1936-maximize-number-of-nice-divisors) |
 | [2032-largest-odd-number-in-string](https://github.com/Jainethin-M/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/Jainethin-M/Leet-Code/tree/master/2383-add-two-integers) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Jainethin-M/Leet-Code/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jainethin-M/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Jainethin-M/Leet-Code/tree/master/1013-fibonacci-number) |
+| [1936-maximize-number-of-nice-divisors](https://github.com/Jainethin-M/Leet-Code/tree/master/1936-maximize-number-of-nice-divisors) |
 ## Array
 |  |
 | ------- |
